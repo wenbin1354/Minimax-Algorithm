@@ -1,0 +1,3 @@
+﻿  Minimax.cpp
+C:\Users\wbl\Downloads\GitHub\Minimax-Algorithm\TicTacToe\TicTacToe\Minimax.cpp(241): warning C4715: 'position': not all control paths return a value
+  TicTacToe.vcxproj -> C:\Users\wbl\Downloads\GitHub\Minimax-Algorithm\TicTacToe\x64\Debug\TicTacToe.exe
